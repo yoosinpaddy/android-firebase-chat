@@ -1,12 +1,6 @@
 # RivChat - Android chat app base on Firebase.  
-RivChat is a example for chat app base on Google Firebase, messages are delivered in real-time.  
-Video demo anh newest source code version: https://www.youtube.com/watch?v=KHCXsAsLgqM
+RivChat is a example for chat app base on Google Firebase, messages are delivered in real-time. 
 
-<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" width="200"/> [HaloMe Messenger app on Play Store][1].
-
-HaloMe Messenger is implemented from RivChat. Let checkout it on Play Store
-
-<img src="https://lh3.googleusercontent.com/IfX-sQdKV2f_cyhYTgaqDKNJjYk1UZkzFPFmf6SK-rNOuGExl1qoDuEr_0i5hwrmo24=w200-rw" width="200"/>
 
 ### RivChat
 <img src='https://github.com/nguyenvulebinh/rivchat/blob/master/Screenshot_2017-01-06-09-22-10.png' width='300'/> 
